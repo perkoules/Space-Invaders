@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a7c5afd85518b42ba58014077af1ed, type: 3}
+  m_Name: 4.EnemyHard
+  m_EditorClassIdentifier: 
+  enemyType: Hard
+  damage: 1
+  health: 250
+  enemySpeed: 100
+  projectileSpeed: 80
+  shootingFrequency: 0.75
+  chargingEffect: {fileID: 100000, guid: 64f934a9b773d1d47a7572eb4c746d6d, type: 3}
+  deathExplosion: {fileID: 1973075987484898, guid: bccc7a794e75b2a44a4b0dac69160b7b,
+    type: 3}
+  enemyProjectile: {fileID: 4575524699254277290, guid: 26a6886a7e8ba9442aaf3b7f2ef9e934,
+    type: 3}

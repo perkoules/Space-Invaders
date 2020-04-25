@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Meter
+  - PlayerProjectileTag
+  - EnemyProjectileTag
+  - IndicatorTag
+  - SpriteTag
+  - LifeTag
+  - LaserBeam
+  - GainTag
+  - GameManagerTag
+  - Dissolve
+  - WhirlOfDoomTag
+  - AmmoExistsFXTag
+  - DamagedPartsTag
+  - RocketTag
+  - FrozenProjectileTag
+  - GrayTag
+  - PlayerGunBarrelTag
+  - CanvasLivesTag
+  - ScoreTextTag
+  - WavesTextTag
+  - CanvasTag
+  - ObjectToRotateInPlayerTag
+  - PivotPointCenterTag
+  - FrozenProjectilesVaultTag
+  - VaultEffectTag
+  - BonusTag
+  - BuddyTag
+  - KeysUITag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - ProjectilesLayer
+  - Player
+  - WheelLayer
+  - RocketLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 4073620547
+    locked: 0
+  - name: Front
+    uniqueID: 1695587767
+    locked: 0
