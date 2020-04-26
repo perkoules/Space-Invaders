@@ -10,6 +10,8 @@
 
 
 
-[Watch it on Youtube] https://youtu.be/mFAGX3tqFpw
+[Portfolio] https://www.perkoules.com/
 
-[Play it Online] https://perkoules.itch.io/alternative-laser-defender
+[Youtube] https://youtu.be/mFAGX3tqFpw
+
+[Play Online] https://perkoules.itch.io/alternative-laser-defender
